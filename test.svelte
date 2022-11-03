@@ -6,6 +6,6 @@
         test {
             value
         }
-    }
+    } 
     `;
 </script>
